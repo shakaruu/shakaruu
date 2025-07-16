@@ -1,6 +1,6 @@
 ## Halo Semua!
 
-![myHeader](assets/github-header-image.png)
+![myHeader](assets/github-header-image-fix.png)
 <!--
 **shakaruu/shakaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
